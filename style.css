@@ -1,3 +1,15 @@
+body {
+  /* background-color:rgba(60, 240, 220, .75); */
+  background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg");
+}
+
 p {
   color: red
 }
+
+header {
+  background-color: rgba(20, 220, 200, .4);
+}
+
+#Experience {
+  
