@@ -1,6 +1,7 @@
 body {
-  /* background-color:rgba(60, 240, 220, .75); */
-  background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg");
+  font-family: "Abel";
+  background-color:rgba(60, 240, 220, .75);
+   /* background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg"); */ 
 }
 
 p {
