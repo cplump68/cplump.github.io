@@ -1,30 +1,45 @@
 body {
   font-family: "Abel";
-  background-color:rgba(60, 240, 220, .75);
-   /* background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg"); */ 
-}
-
-p {
-  color: red
+  background-image: url("https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"); 
+  /*  background-image: url("https://images.unsplash.com/photo-1472712739516-7ad2b786e1f7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"); */ 
+  background-repeat: no-repeat;
+  color: white;
 }
 
 header {
   background-color: rgba(20, 220, 200, .4);
+  text-align: center;
+}
+
+#Resume {
+  
+}  
+
+#CharlesPlump {
+  padding-bottom: -5px;
 }
 
 #Experience {
 
 }
 
-#Education {
- padding: 
+#Education:after {
+ clear: both;
 }
 
-#Resume {
-  padding-top: -10px
-}  
-
-#CharlesPlump {
-  padding-bottom: 0px
+#Schools {
+  float: left;
+  width: 30%;
+  background: #ccc;
+  padding: 20px;
 }
+
+#Degrees {
+  float: left;
+  width: 70%;
+  padding: 20px;
+  background-color: blue, .5;
+}
+
+
 
